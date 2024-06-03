@@ -5,7 +5,8 @@
 
 ณ ห้องปฏิบัติการคอมพิวเตอร์ ชั้น 6 อาคารรังวัดและทำแผนที่ กรมที่ดิน ตำบลบางพูด อำเภอปากเกร็ด จังหวัดนนทบุรี
 
-![image](https://github.com/lookmeebbear/GeoAI_DOL/assets/88705136/306da318-6eed-4443-b9dd-aef5be897bb6)
+![Screenshot 2024-01-29 214424](https://github.com/lookmeebbear/GeoAI_DOL/assets/88705136/11e57b81-0d9a-4fe6-b3e5-a85f2c33ecb9)
+
 
 
 ผู้บรรยายหลัก : เทพชัย ศรีน้อย (ลูกหมี)
