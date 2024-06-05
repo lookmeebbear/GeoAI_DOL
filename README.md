@@ -21,7 +21,9 @@
 
   2. การเข้าถึงข้อมูลรอยพิมพ์ฐานอาคาร (Building Footprint) และ การสกัดวัตถุบนภาพด้วยเทคนิค Geospatial Segment Anything Model
 
-  3. การเสนอแนะวิธีการจำแนกสิ่งปกคลุมดินด้วยการเขียนโปรแกรม python ทั้งเทคนิค Machine Learning อย่างง่าย และ Deep Learning อย่างยาก
+    https://colab.research.google.com/drive/1HTIEI4v9trZk3LY_etTlOXbGYnsdUWA6?usp=sharing
+
+  4. การเสนอแนะวิธีการจำแนกสิ่งปกคลุมดินด้วยการเขียนโปรแกรม python ทั้งเทคนิค Machine Learning อย่างง่าย และ Deep Learning อย่างยาก
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
