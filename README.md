@@ -8,6 +8,8 @@
 
 อาจารย์เทพชัย ศรีน้อย และ ผู้ช่วยศาสตราจารย์ ดร.ชัยยุทธ เจริญผล
 
+ข้อมูลประกอบการศึกษา https://drive.google.com/file/d/1Lygu-8SBP9ryp_iadrcEnIAfoBEBcJbU/view?usp=sharing
+
 ปัญญาประดิษฐ์สำหรับการสกัดข้อมูลรูปแปลงที่ดิน
 
 https://colab.research.google.com/drive/1HBGfIgz48ADUvsD-abbvVLrE85a0vYdR?usp=sharing
